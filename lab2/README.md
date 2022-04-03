@@ -9,36 +9,36 @@ różnice te nie są jednak bardzo duże, ponieważ chciałam zachować spójno�
 
 ### W App.js użyte zostały react-navigator oraz stack-navigator  
 
-![AppJS](assets/appJS.png)  
+![AppJS](lab2/assets/appJS.png)  
 
 ### Main Page - czyli strona główna aplikacji  
 
-![MainPage](assets/mainpage.png)  
+![MainPage](lab2/assets/mainpage.png)  
 
 #### Styl do Main Page  
 
-![MainPage](assets/stylesmain.png "MainPage")  
+![MainPage](lab2/assets/stylesmain.png "MainPage")  
 
 ### HookUseState  
 
-![HookUseState](assets/hook.png)  
+![HookUseState](lab2/assets/hook.png)  
 
 #### Styl do HookUseState
 
-![HookUseState](assets/styleshook.png)  
+![HookUseState](lab2/assets/styleshook.png)  
 
 ### Rest Parameters  
 
-![Rest_Parameters](assets/rest.png)  
+![Rest_Parameters](lab2/assets/rest.png)  
 
 #### Styl Rest Parameters  
 
-![Rest_Parameters](assets/stylesrest.png)  
+![Rest_Parameters](lab2/assets/stylesrest.png)  
 
 ### Spread Operator  
 
-![Spread_Operator](assets/spread.png)  
+![Spread_Operator](lab2/assets/spread.png)  
 
 #### Styl Spread Operator
 
-![Spread_Operator](assets/stylesspread.png)  
+![Spread_Operator](lab2/assets/stylesspread.png)  
