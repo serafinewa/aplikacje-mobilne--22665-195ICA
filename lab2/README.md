@@ -21,7 +21,7 @@ różnice te nie są jednak bardzo duże, ponieważ chciałam zachować spójno�
 
 ### HookUseState  
 
-![HookUseState](assets/hook.png)  
+![HookUseState](assets/hook.PNG)  
 
 #### Styl do HookUseState
 
@@ -29,7 +29,7 @@ różnice te nie są jednak bardzo duże, ponieważ chciałam zachować spójno�
 
 ### Rest Parameters  
 
-![Rest_Parameters](assets/rest.png)  
+![Rest_Parameters](assets/rest.PNG)  
 
 #### Styl Rest Parameters  
 
@@ -37,7 +37,7 @@ różnice te nie są jednak bardzo duże, ponieważ chciałam zachować spójno�
 
 ### Spread Operator  
 
-![Spread_Operator](assets/spread.png)  
+![Spread_Operator](assets/spread.PNG)  
 
 #### Styl Spread Operator
 
