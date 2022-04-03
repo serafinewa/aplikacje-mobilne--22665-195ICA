@@ -13,7 +13,7 @@ różnice te nie są jednak bardzo duże, ponieważ chciałam zachować spójno�
 
 ### Main Page - czyli strona główna aplikacji  
 
-![MainPage](assets/mainpage.png)  
+![MainPage](assets/mainpage.PNG)  
 
 #### Styl do Main Page  
 
