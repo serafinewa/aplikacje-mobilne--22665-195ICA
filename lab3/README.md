@@ -9,25 +9,25 @@ Działanie aplikacji na telefonie można zobaczyć na poniższych gifach.
 ![GIF3](assets/gifstepprogress.gif)
 
 ### App.js code :
-![appjs](assets/appjs.PNG)
+![appjs](assets/appjs.png)
 ### Main Page :
 ![mainpage](assets/mainpage.png)
 ### Sort & Filter code:
-![sortfilter](assets/sortfilter.PNG)
+![sortfilter](assets/sortfilter.png)
 ### Sort & Randomize :
 ![sortrandom](assets/sortfiltr.png)  
 ![sort](assets/sortfiltrsort.png)  
 ### Lazy Loading code:
-![lazyloading](assets/lazyloadingstyle.PNG)
+![lazyloading](assets/lazyloadingstyle.png)
 ### Lazy Loading code :
-![lazyloading](assets/lazyloadingcode.PNG)
+![lazyloading](assets/lazyloadingcode.png)
 ### To Load code :
-![lazyloading](assets/toloadcode.PNG)
+![lazyloading](assets/toloadcode.png)
 ### Lazy Loading :
 ![lazyload](assets/lazyloading.png)
 ### Step Progression code:
-![stepprogress](assets/stepprogresscode.PNG)
+![stepprogress](assets/stepprogresscode.png)
 ### Step Progression :
-![stepprogress](assets/stepprogresscode1.PNG)
+![stepprogress](assets/stepprogresscode1.png)
 ### Step Progression :
 ![stepprog](assets/stepprogress.png)  
