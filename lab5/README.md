@@ -17,4 +17,9 @@ Do stworzenia aplikacji wykorzystałam Reacta i aplikację Expo Go
 ![](assets/swipeable.png)
 ### Styles :
 ![](assets/styles.png)
+![](assets/styles2.png)
+![](assets/styles3.png)
+### Main Page :
+![](assets/mainpage.png)
+
 
