@@ -5,7 +5,7 @@ Do stworzenia aplikacji wykorzystałam Reacta i aplikację Expo Go
 
 ### Image Load  
 
-![](assets/imageloadgif.gif)
+![](assets/imageloadgif.GIF)
 
 ImageLoad.js  
 
@@ -17,7 +17,7 @@ Styl dla ImageLoad.js
 
 ### Image Slider  
 
-![](assets/imageslidergif.gif) 
+![](assets/imageslidergif.GIF) 
 
 ImageSlider.js  
 
@@ -29,7 +29,7 @@ Styl dla ImageSlider.js
 
 ### Lazy Loading  
 
-![](assets/lazyloadinggif.gif)
+![](assets/lazyloadinggif.GIF)
 
 LazyLoading.js  
 
@@ -43,7 +43,7 @@ Styl dla LazyLoading.js
 
 ### Web Info  
 
-![](assets/connectiontypegif.gif) 
+![](assets/connectiontypegif.GIF) 
 
 WebInfo.js  
 
@@ -68,7 +68,7 @@ Styl dla AsyncStorage.js
 
 ### Sync Data  
 
-![](assets/syncdatagif.gif)
+![](assets/syncdatagif.GIF)
 
 SyncData.js  
 
