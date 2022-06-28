@@ -5,77 +5,77 @@ Do stworzenia aplikacji wykorzystałam Reacta i aplikację Expo Go
 
 ### Image Load  
 
-![](assets/imageloadgif.GIF)
+![](lab6/assets/imageloadgif.gif)
 
 ImageLoad.js  
 
-![](assets/imageloadjs.png)
+![](lab6/assets/imageloadjs.png)
 
 Styl dla ImageLoad.js 
 
-![](assets/imageloadstyle.png)  
+![](lab6/assets/imageloadstyle.png)  
 
 ### Image Slider  
 
-![](assets/imageslidergif.GIF) 
+![](lab6/assets/imageslidergif.gif) 
 
 ImageSlider.js  
 
-![](assets/imagesliderjs.png)   
+![](lab6/assets/imagesliderjs.png)   
 
 Styl dla ImageSlider.js 
 
-![](assets/imagesliderstyle.png)  
+![](lab6/assets/imagesliderstyle.png)  
 
 ### Lazy Loading  
 
-![](assets/lazyloadinggif.GIF)
+![](lab6/assets/lazyloadinggif.gif)
 
 LazyLoading.js  
 
-![](assets/lazyloadingjs.png) 
-![](assets/lazyloadingjs1.png) 
-![](assets/lazyloadingjs2.png) 
+![](lab6/assets/lazyloadingjs.png) 
+![](lab6/assets/lazyloadingjs1.png) 
+![](lab6/assets/lazyloadingjs2.png) 
 
 Styl dla LazyLoading.js 
 
-![](assets/lazyloadingstyle.png)   
+![](lab6/assets/lazyloadingstyle.png)   
 
 ### Web Info  
 
-![](assets/connectiontypegif.GIF) 
+![](lab6/assets/connectiontypegif.gif) 
 
 WebInfo.js  
 
-![](assets/webinfojs.png)  
+![](lab6/assets/webinfojs.png)  
 
 Styl dla WebInfo.js  
 
-![](assets/webinfostyle.png)  
+![](lab6/assets/webinfostyle.png)  
 
 ### Async Storage  
 
-![](assets/asyncstorage1.png)
+![](lab6/assets/asyncstorage1.png)
 
 AsyncStorage.js  
 
-![](assets/asyncstorage.png)
-![](assets/asyncstorage2.png)
+![](lab6/assets/asyncstorage.png)
+![](lab6/assets/asyncstorage2.png)
 
 Styl dla AsyncStorage.js  
 
-![](assets/asyncstoragestyles.png) 
+![](lab6/assets/asyncstoragestyles.png) 
 
 ### Sync Data  
 
-![](assets/syncdatagif.GIF)
+![](lab6/assets/syncdatagif.gif)
 
 SyncData.js  
 
-![](assets/syncdatajs.png)
-![](assets/syncdatajs2.png)
+![](lab6/assets/syncdatajs.png)
+![](lab6/assets/syncdatajs2.png)
 
 Styl dla SyncData.js  
 
-![](assets/syncdatastyles.png)
+![](lab6/assets/syncdatastyles.png)
 
