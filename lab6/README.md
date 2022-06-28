@@ -55,7 +55,7 @@ Styl dla WebInfo.js
 
 ### Async Storage  
 
-![](assets/asyncstorage1.png)
+![](assets/asyncstorage1.PNG)
 
 AsyncStorage.js  
 
