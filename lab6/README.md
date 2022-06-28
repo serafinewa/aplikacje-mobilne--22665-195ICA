@@ -5,7 +5,7 @@ Do stworzenia aplikacji wykorzystałam Reacta i aplikację Expo Go
 
 ### Image Load  
 
-![](lab6/assets/imageloadgif.gif)
+![](assets/imageloadgif.gif)
 
 ImageLoad.js  
 
