@@ -30,10 +30,10 @@ const ViewAllUser = () => {
       <View
         key={item.user_id}
         style={{backgroundColor: '#ffcc26', padding: 20}}>
-        <Text style={{color: '#ffffff'}}>Id: {item.user_id}</Text>
-        <Text style={{color: '#ffffff'}}>Name: {item.user_name}</Text>
-        <Text style={{color: '#ffffff'}}>Contact: {item.user_contact}</Text>
-        <Text style={{color: '#ffffff'}}>Address: {item.user_address}</Text>
+        <Text style={{color: '#000000'}}>Id: {item.user_id}</Text>
+        <Text style={{color: '#000000'}}>Name: {item.user_name}</Text>
+        <Text style={{color: '#000000'}}>Contact: {item.user_contact}</Text>
+        <Text style={{color: '#000000'}}>Address: {item.user_address}</Text>
       </View>
     );
   };
